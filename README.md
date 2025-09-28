@@ -21,7 +21,7 @@ calculations done.
 ## Project Structure
 
 ```text
-.              # Local folder  
+.                
 │  
 ├── src/  
 │   ├── calculatorGUI.py       # GUI implementation  
